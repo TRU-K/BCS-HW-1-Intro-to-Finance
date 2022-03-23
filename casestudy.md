@@ -15,22 +15,32 @@ TP is directly targeting merchants of any size as the technology they have desig
 ![Till Payment's POS Terminals](https://till-payments-website.s3.amazonaws.com/assets/images/all-terminal-dual.png)
 
 Their in-person merchant facilities include features such as:
+
 •	ergonomic with a simplistic, appealing design
+
 •	Highly customisable, allowing for personalised advertisements and branding to be integrated into the merchant devices. 
+
 •	Economically friendly, thanks to the ability of e-mailing receipts to customers thus reducing paper wastage.
 
 ![Till Payment's Digital Payment Ecosystem](https://till-payments-website.s3.amazonaws.com/assets/images/onlinenew.png)
 
 Their online payment integration allows for businesses, customers to have more options for checking out, the option for payment by link and the ability to integrate in-app purchases for apps or games your businesses may have.
 While their online payment service has the following capabilities:
+
 •	More checkout options.
+
 •	Payment by link – giving businesses the power to receive payments without being there physically.
+
 •	In-app purchase integration for apps or games.
+
 •	Customisable checkout pages for branding personalisation.
 
 ![Till Payments's Feature Rich Environment](https://till-payments-website.s3.amazonaws.com/assets/images/Till-Ecosystem-V03-1200x1200-copy.png)
 
 TP offers a feature rich environment (that is not readily available with many competitors) which include:
+
 •	TP’s Portal gives you an all-in-one overview of transactions, customer data and inventory in near real-time
+
 •	The ability to accept every single payment method your customer chooses.
+
 •	TP accepts all currencies and reroutes you to over 350 gateways, so you won’t have to find a local payment partner or manage multiple providers, plans, and prices.

@@ -74,20 +74,17 @@ This innovation was largely instituted by smaller companies then later adopted b
 
 TP, while being relatively small and new in comparison to its larger competitors, is positively impacting its customers and the domain it falls into. Customer comments and reviews have left TP with a star rating of 4.3/5 on google.
 
-“Really happy with the results after switching over to Till 5 months ago. Seamless integration with our systems and great account management support with instant results. Highly recommended” 
+“Really happy with the results after switching over to Till 5 months ago. Seamless integration with our systems and great account management support with instant results. Highly recommended"
 5/5 stars
  -IGA Pitt Town
 
-”Great service, efficiency and continued follow ups after the installations, definitely recommend Till payments to other businesses
+"Great service, efficiency and continued follow ups after the installations, definitely recommend Till payments to other businesses
 Thank You”
 5/5 stars
 -Rose Nardo
 
 TP’s performance, which can be judged by its customer base is not readily available to access. The future for TP looks promising considering the large, successful, series C funding round of $110 million, it has recently received from investors, 
-
-“The funding will be used to strengthen Till’s local capabilities, bolster global expansion, and further innovate its cutting-edge technology.” 
--Shadi Haddad, CEO
-
+“The funding will be used to strengthen Till’s local capabilities, bolster global expansion, and further innovate its cutting-edge technology.”-Shadi Haddad, CEO
 TP’s services are on par with larger scale companies that are already well established in the field Showing promise for this relatively small company, in comparison, coming out of Australia.
 
 If I were to advise this company of anything it would to be to integrate clarity of pricing options on their website. This is visible on competitors’ websites and saves the customer the hassle of having to contact TP and wait for a response, in order to review pricing options. In doing so I believe TP will onboard more customers because, as a consumer, time is everything and if I must make a request just for pricing I would look elsewhere.

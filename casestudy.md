@@ -76,12 +76,12 @@ TP, while being relatively small and new in comparison to its larger competitors
 
     “Really happy with the results after switching over to Till 5 months ago. Seamless integration with our systems and great account management support with instant results. Highly recommended” 
     5/5 stars
-        -IGA Pitt Town
+    -IGA Pitt Town
 
     ”Great service, efficiency and continued follow ups after the installations, definitely recommend Till payments to other businesses
     Thank You”
     5/5 stars
-	    -Rose Nardo
+	-Rose Nardo
 
 TP’s performance, which can be judged by its customer base is not readily available to access. The future for TP looks promising considering the large, successful, series C funding round of $110 million, it has recently received from investors, 
     “The funding will be used to strengthen Till’s local capabilities, bolster global expansion, and further innovate its cutting-edge technology.” 

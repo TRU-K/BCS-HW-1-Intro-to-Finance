@@ -44,3 +44,49 @@ TP offers a feature rich environment (that is not readily available with many co
 •	The ability to accept every single payment method your customer chooses.
 
 •	TP accepts all currencies and reroutes you to over 350 gateways, so you won’t have to find a local payment partner or manage multiple providers, plans, and prices.
+
+---
+
+## Trends in Merchant Services
+
+The merchant services domain has seen massive change over the past 5-10 years, majorly due to the consumer demand, to shift into a largely digital economy. This trend is easily observed in the graph pictured below,
+
+![images/graph-1.gif](Transactions per capita, outlining the trend of consumer payments)
+
+This trend created a requirement for merchant services providers to initiate innovation in the tech that was being used. Yet the major providers did not acknowledge this requirement. That’s when other companies stepped in to innovate in this field and create the new tech being widely used today. Some of the largest innovations and trends that have become prevalent in this field over the last 10 years include:
+
+•	Same day settlement on payments made through POS
+
+•	Online checkout
+
+•	The ability to continue taking payments through POS during outages
+
+•	Mobile/Virtual wallets
+
+•	Tap and Pay
+
+
+This innovation was largely instituted by smaller companies then later adopted by major providers but currently many businesses particularly small-medium sized ones are integrating the tech from alternative providers like TP as their services are often more feature rich and cheaper alternatives. Other alternatives to the major providers include, Square, Stripe, PayPal and QuickBooks, to name a few, but this field is ever-growing with new businesses entering this field every day.
+
+---
+
+## Review
+
+TP, while being relatively small and new in comparison to its larger competitors, is positively impacting its customers and the domain it falls into. Customer comments and reviews have left TP with a star rating of 4.3/5 on google.
+
+    “Really happy with the results after switching over to Till 5 months ago. Seamless integration with our systems and great account management support with instant results. Highly recommended” 
+    5/5 stars
+        -IGA Pitt Town
+
+    ”Great service, efficiency and continued follow ups after the installations, definitely recommend Till payments to other businesses
+    Thank You”
+    5/5 stars
+	    -Rose Nardo
+
+TP’s performance, which can be judged by its customer base is not readily available to access. The future for TP looks promising considering the large, successful, series C funding round of $110 million, it has recently received from investors, 
+    “The funding will be used to strengthen Till’s local capabilities, bolster global expansion, and further innovate its cutting-edge technology.” 
+    -Shadi Haddad, CEO
+TP’s services are on par with larger scale companies that are already well established in the field Showing promise for this relatively small company, in comparison, coming out of Australia.
+
+If I were to advise this company of anything it would to be to integrate clarity of pricing options on their website. This is visible on competitors’ websites and saves the customer the hassle of having to contact TP and wait for a response, in order to review pricing options. In doing so I believe TP will onboard more customers because, as a consumer, time is everything and if I must make a request just for pricing I would look elsewhere.
+In terms of technicalities, I would advise that TP allow for the acceptance crypto payments to be incorporated into their merchant and online payment services. I would imagine this would require a lot of work but is not impossible as crypto is being accepted for payment in some places already. Crypto is only becoming more and more prevalent in our society and incorporating this feature would put them ahead of the space now, as this is not a feature any major competitors offer yet.
